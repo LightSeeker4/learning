@@ -1,0 +1,7 @@
+D:\обучение\с#\1 четверть. Основы языка С#\3\HomeWork3\Task3\bin\Debug\Task3.exe.config
+D:\обучение\с#\1 четверть. Основы языка С#\3\HomeWork3\Task3\bin\Debug\Task3.exe
+D:\обучение\с#\1 четверть. Основы языка С#\3\HomeWork3\Task3\bin\Debug\Task3.pdb
+D:\обучение\с#\1 четверть. Основы языка С#\3\HomeWork3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\обучение\с#\1 четверть. Основы языка С#\3\HomeWork3\Task3\obj\Debug\Task3.exe
+D:\обучение\с#\1 четверть. Основы языка С#\3\HomeWork3\Task3\obj\Debug\Task3.pdb
+D:\обучение\с#\1 четверть. Основы языка С#\3\HomeWork3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
